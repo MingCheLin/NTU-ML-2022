@@ -1,5 +1,5 @@
 # NTU-ML-2022
-N
+Newbie of ML.
 This is my coursework recording for NTU ML in 2021 spring from Prof.Lee.
 The course source : https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
 
